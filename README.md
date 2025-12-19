@@ -64,7 +64,41 @@ Study Buddy - это мобильное приложение для Android, р�
 
 ## Скриншоты приложения
 
-*(Здесь могут быть добавлены скриншоты интерфейса приложения)*
+<h2 align="center"> 
+Окно приветствия
+</h2>
+
+<p align="center">
+  <img src="screenshots/greetings.png" width="250">
+</p>
+
+<h2 align="center"> 
+Окно авторизации
+</h2>
+
+<p align="center">
+  <img src="screenshots/login.png" width="250">
+</p>
+
+<h2 align="center"> 
+Окно поиска
+</h2>
+
+<p align="center">
+  <img src="screenshots/search.png" width="250">
+</p>
+
+<h2 align="center"> 
+Окно запросов
+</h2>
+
+<p align="center">
+  <img src="screenshots/requests.png" width="250">
+</p>
+
+
+
+
 
 ## Возможные улучшения
 
